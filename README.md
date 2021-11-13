@@ -4,7 +4,7 @@ Bonsoir je leak le bot de Zitix et Slushi :)
 
 Bye RadioLabs 😞
 
-**Besoin d'aide ? Rejoignez :** https://discord.gg/DhHNhND3WP
+⚠️ **Besoin d'aide ? Rejoignez :** https://discord.gg/DhHNhND3WP
 
 
 À METTRE DANS LE FICHIER CONFIG.JSON
